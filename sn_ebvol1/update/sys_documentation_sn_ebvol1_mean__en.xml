@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="mean" language="en" table="sn_ebvol1_mean">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>mean</label>
+            <language>en</language>
+            <name>sn_ebvol1_mean</name>
+            <plural>means</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-02 16:31:09</sys_created_on>
+            <sys_id>a3fb96b8b7100010cf70e2b9de11a985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mean</sys_name>
+            <sys_package display_value="ebvol1" source="sn_ebvol1">c4c0100653000010cf70ddeeff7b128c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ebvol1">c4c0100653000010cf70ddeeff7b128c</sys_scope>
+            <sys_update_name>sys_documentation_sn_ebvol1_mean__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-02 16:31:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
