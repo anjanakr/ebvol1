@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_app1.commitcheck_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>commitcheck_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 15:14:39</sys_created_on>
+        <sys_id>ff6a3b16b7904010cf70e2b9de11a97a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_app1.commitcheck_user</sys_name>
+        <sys_package display_value="app1" source="sn_app1">491b5a78b7100010cf70e2b9de11a96e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app1">491b5a78b7100010cf70e2b9de11a96e</sys_scope>
+        <sys_update_name>sys_user_role_ff6a3b16b7904010cf70e2b9de11a97a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-07 15:14:39</sys_updated_on>
+    </sys_user_role>
+</record_update>

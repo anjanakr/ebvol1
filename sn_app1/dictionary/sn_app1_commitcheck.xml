@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="commitcheck" max_length="40" name="sn_app1_commitcheck" type="collection"/>
+</database>
